@@ -1,2 +1,2 @@
 # spring-cloud-contract-demo
-Consumer-Driven Contracts demo
+消费者驱动契约测试例子
